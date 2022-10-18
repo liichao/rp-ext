@@ -1,6 +1,6 @@
 {
   "id": "pocopico.wch",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/rpext-index.json",
   "info": {
     "name": "wch",
     "description": "Adds  Support",

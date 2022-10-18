@@ -1,6 +1,6 @@
 {
   "id": "redpill-acpid",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/rpext-index.json",
   "info": {
     "name": "button",
     "description": "Adds ACPI Button Driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.mvsas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mvsas/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/mvsas/rpext-index.json",
   "info": {
     "name": "mvsas",
     "description": "Adds Marvell 88SE6440 SAS/SATA controller driver Support",

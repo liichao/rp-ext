@@ -1,6 +1,6 @@
 {
   "id": "pocopico.atl1c",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/rpext-index.json",
   "info": {
     "name": "atl1c",
     "description": "Adds Qualcomm Atheros 100/1000M Ethernet Network Driver Support",

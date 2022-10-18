@@ -1,6 +1,6 @@
 {
   "id": "pocopico.mpt2sas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/rpext-index.json",
   "info": {
     "name": "mpt2sas",
     "description": "Adds  Support",

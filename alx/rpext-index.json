@@ -1,6 +1,6 @@
 {
   "id": "pocopico.alx",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/alx/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/alx/rpext-index.json",
   "info": {
     "name": "alx",
     "description": "Adds Qualcomm Atheros(R) AR816x/AR817x PCI-E Ethernet Network Driver Support",

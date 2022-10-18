@@ -1,6 +1,6 @@
 {
   "id": "pocopico.igb",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/rpext-index.json",
   "info": {
     "name": "igb",
     "description": "Adds Intel(R) Gigabit Ethernet Network Driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.mlx5_core",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx5_core/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx5_core/rpext-index.json",
   "info": {
     "name": "mlx5_core",
     "description": "Adds Mellanox Connect-IB, ConnectX-4 core driver Support",

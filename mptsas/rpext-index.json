@@ -1,6 +1,6 @@
 {
   "id": "pocopico.mptsas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptsas/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/mptsas/rpext-index.json",
   "info": {
     "name": "mptsas",
     "description": "Adds Fusion MPT SAS Host driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.qlcnic",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/qlcnic/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/qlcnic/rpext-index.json",
   "info": {
     "name": "qlcnic",
     "description": "Adds QLogic 1/10 GbE Converged/Intelligent Ethernet Driver Support",

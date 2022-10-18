@@ -1,6 +1,6 @@
 {
   "id": "pocopico.atl1e",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1e/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1e/rpext-index.json",
   "info": {
     "name": "atl1e",
     "description": "Adds Atheros 1000M Ethernet Network Driver Support",

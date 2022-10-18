@@ -1,6 +1,6 @@
 {
   "id": "pocopico.dm9601",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/dm9601/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/dm9601/rpext-index.json",
   "info": {
     "name": "dm9601",
     "description": "Adds Davicom DM96xx USB 10/100 ethernet devices Support",

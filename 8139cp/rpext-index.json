@@ -1,6 +1,6 @@
 {
   "id": "pocopico.8139cp",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/8139cp/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/8139cp/rpext-index.json",
   "info": {
     "name": "8139cp",
     "description": "Adds RealTek RTL-8139C+ series 10/100 PCI Ethernet driver Support",

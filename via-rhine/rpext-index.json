@@ -1,6 +1,6 @@
 {
   "id": "pocopico.via-rhine",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/via-rhine/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/via-rhine/rpext-index.json",
   "info": {
     "name": "via-rhine",
     "description": "Adds VIA Rhine PCI Fast Ethernet driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.ixgbe.vanilla",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe.vanilla/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe.vanilla/rpext-index.json",
   "info": {
     "name": "ixgbe",
     "description": "Adds Intel(R) 10GbE PCI Express Linux Network Driver Support",

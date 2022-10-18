@@ -1,6 +1,6 @@
 {
   "id": "pocopico.tg3",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/rpext-index.json",
   "info": {
     "name": "tg3",
     "description": "Adds Broadcom Tigon3 ethernet driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.vmw_pvscsi",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmw_pvscsi/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/vmw_pvscsi/rpext-index.json",
   "info": {
     "name": "vmw_pvscsi",
     "description": "Adds VMware PVSCSI driver Support",

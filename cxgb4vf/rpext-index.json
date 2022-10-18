@@ -1,6 +1,6 @@
 {
   "id": "pocopico.cxgb4vf",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4vf/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4vf/rpext-index.json",
   "info": {
     "name": "cxgb4vf",
     "description": "Adds Chelsio T4/T5/T6 Virtual Function (VF) Network Driver Support",

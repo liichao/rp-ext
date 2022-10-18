@@ -1,6 +1,6 @@
 {
   "id": "pocopico.arcmsr",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/arcmsr/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/arcmsr/rpext-index.json",
   "info": {
     "name": "arcmsr",
     "description": "Adds Areca ARC11xx/12xx/16xx/188x SAS/SATA RAID Controller Driver Support",

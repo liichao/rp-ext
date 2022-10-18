@@ -1,6 +1,6 @@
 {
   "id": "pocopico.igbvf",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igbvf/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/igbvf/rpext-index.json",
   "info": {
     "name": "igbvf",
     "description": "Adds Intel(R) Gigabit Virtual Function Network Driver Support",

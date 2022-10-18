@@ -1,6 +1,6 @@
 {
   "id": "pocopico.qla2xxx",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/qla2xxx/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/qla2xxx/rpext-index.json",
   "info": {
     "name": "qla2xxx",
     "description": "Adds  Support",

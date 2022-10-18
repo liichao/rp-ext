@@ -1,6 +1,6 @@
 {
   "id": "pocopico.forcedeth",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/forcedeth/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/forcedeth/rpext-index.json",
   "info": {
     "name": "forcedeth",
     "description": "Adds Reverse Engineered nForce ethernet driver Support",

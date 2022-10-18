@@ -1,6 +1,6 @@
 {
   "id": "pocopico.iavf",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/iavf/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/iavf/rpext-index.json",
   "info": {
     "name": "iavf",
     "description": "Adds Intel(R) Ethernet Adaptive Virtual Function Driver Support",

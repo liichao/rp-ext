@@ -1,6 +1,6 @@
 {
   "id": "pocopico.cxgb4",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4/rpext-index.json",
   "info": {
     "name": "cxgb4",
     "description": "Adds Chelsio T4/T5/T6 Network Driver Support",

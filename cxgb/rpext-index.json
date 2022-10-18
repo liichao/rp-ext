@@ -1,6 +1,6 @@
 {
   "id": "pocopico.cxgb",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb/rpext-index.json",
   "info": {
     "name": "cxgb",
     "description": "Adds Chelsio 10Gb Ethernet Driver Support",

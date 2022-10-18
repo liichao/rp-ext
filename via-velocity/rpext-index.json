@@ -1,6 +1,6 @@
 {
   "id": "pocopico.via-velocity",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/via-velocity/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/via-velocity/rpext-index.json",
   "info": {
     "name": "via-velocity",
     "description": "Adds VIA Networking Velocity Family Gigabit Ethernet Adapter Driver Support",

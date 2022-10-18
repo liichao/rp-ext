@@ -1,6 +1,6 @@
 {
   "id": "pocopico.be2net",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/be2net/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/be2net/rpext-index.json",
   "info": {
     "name": "be2net",
     "description": "Adds Emulex OneConnect NIC Driver 10.6.0.3 Support",

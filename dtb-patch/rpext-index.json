@@ -1,6 +1,6 @@
 {
   "id": "pocopico.dtb-patch",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/dtb-patch/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/dtb-patch/rpext-index.json",
   "info": {
     "name": "Tinycore Diag",
     "description": "An extension that will assist in collecting DSM diagnostic information",

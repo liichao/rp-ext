@@ -1,6 +1,6 @@
 {
   "id": "dtbpatch",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/dtbpatch/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/dtbpatch/rpext-index.json",
   "info": {
     "name": "Device tree binary",
     "description": "Update device tree binary automatically on boot",

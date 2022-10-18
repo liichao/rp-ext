@@ -1,6 +1,6 @@
 {
   "id": "pocopico.i40e",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/i40e/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/i40e/rpext-index.json",
   "info": {
     "name": "i40e",
     "description": "Adds Intel(R) Ethernet Connection XL710 Network Driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.nct6775",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/nct6775/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/nct6775/rpext-index.json",
   "info": {
     "name": "nct6775",
     "description": "Adds Driver for NCT6775F and compatible chips Support",

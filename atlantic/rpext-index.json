@@ -1,6 +1,6 @@
 {
   "id": "pocopico.atlantic",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atlantic/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/atlantic/rpext-index.json",
   "info": {
     "name": "atlantic",
     "description": "Adds Marvell (Aquantia) Corporation(R) Network Driver Support",

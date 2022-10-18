@@ -1,6 +1,6 @@
 {
   "id": "pocopico.cxgb3",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb3/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb3/rpext-index.json",
   "info": {
     "name": "cxgb3",
     "description": "Adds Chelsio T3 Network Driver Support",

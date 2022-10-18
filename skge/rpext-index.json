@@ -1,6 +1,6 @@
 {
   "id": "pocopico.skge",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/skge/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/skge/rpext-index.json",
   "info": {
     "name": "skge",
     "description": "Adds SysKonnect Gigabit Ethernet driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.atl1",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1/rpext-index.json",
   "info": {
     "name": "atl1",
     "description": "Adds Atheros L1 Gigabit Ethernet Driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.sfc",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/sfc/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/sfc/rpext-index.json",
   "info": {
     "name": "sfc",
     "description": "Adds  Support",

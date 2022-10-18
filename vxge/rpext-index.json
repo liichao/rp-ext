@@ -1,6 +1,6 @@
 {
   "id": "pocopico.vxge",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vxge/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/vxge/rpext-index.json",
   "info": {
     "name": "vxge",
     "description": "Adds Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter Support",

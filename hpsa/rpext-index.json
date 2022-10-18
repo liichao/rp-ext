@@ -1,6 +1,6 @@
 {
   "id": "pocopico.hpsa",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hpsa/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/hpsa/rpext-index.json",
   "info": {
     "name": "hpsa",
     "description": "Adds  Support",

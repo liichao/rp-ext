@@ -1,6 +1,6 @@
 {
   "id": "pocopico.aic94xx",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/aic94xx/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/aic94xx/rpext-index.json",
   "info": {
     "name": "aic94xx",
     "description": "Adds Adaptec aic94xx SAS/SATA driver Support",

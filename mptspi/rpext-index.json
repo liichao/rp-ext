@@ -1,6 +1,6 @@
 {
   "id": "pocopico.mptspi",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/rpext-index.json",
   "info": {
     "name": "mptspi",
     "description": "Adds Fusion MPT SPI Host driver Support",

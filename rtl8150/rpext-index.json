@@ -1,6 +1,6 @@
 {
   "id": "pocopico.rtl8150",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/rtl8150/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/rtl8150/rpext-index.json",
   "info": {
     "name": "rtl8150",
     "description": "Adds rtl8150 based usb-ethernet driver Support",

@@ -1,6 +1,6 @@
 {
   "id": "pocopico.tn40xx",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tn40xx/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/tn40xx/rpext-index.json",
   "info": {
     "name": "tn40xx",
     "description": "Adds  Support",

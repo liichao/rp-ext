@@ -1,6 +1,6 @@
 {
   "id": "pocopico.megaraid_sas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/megaraid_sas/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/megaraid_sas/rpext-index.json",
   "info": {
     "name": "megaraid_sas",
     "description": "Adds Avago MegaRAID SAS Driver Support",

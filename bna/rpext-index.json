@@ -1,6 +1,6 @@
 {
   "id": "pocopico.bna",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bna/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/bna/rpext-index.json",
   "info": {
     "name": "bna",
     "description": "Adds QLogic BR-series 10G PCIe Ethernet driver Support",

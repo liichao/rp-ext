@@ -1,6 +1,6 @@
 {
   "id": "pocopico.redpilldev",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpilldev/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/redpilldev/rpext-index.json",
   "info": {
     "name": "redpill",
     "description": "Adds  Support",

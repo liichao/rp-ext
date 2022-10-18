@@ -1,6 +1,6 @@
 {
   "id": "pocopico.sata_nv",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/sata_nv/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/sata_nv/rpext-index.json",
   "info": {
     "name": "sata_nv",
     "description": "Adds low-level driver for NVIDIA nForce SATA controller Support",

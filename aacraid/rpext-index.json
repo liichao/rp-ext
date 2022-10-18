@@ -1,6 +1,6 @@
 {
   "id": "pocopico.aacraid",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/aacraid/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/aacraid/rpext-index.json",
   "info": {
     "name": "aacraid",
     "description": "Adds  Support",

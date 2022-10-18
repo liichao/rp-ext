@@ -1,6 +1,6 @@
 {
   "id": "pocopico.atl2",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl2/rpext-index.json",
+   "url": "https://ghproxy.com/https://raw.githubusercontent.com/pocopico/rp-ext/master/atl2/rpext-index.json",
   "info": {
     "name": "atl2",
     "description": "Adds Atheros Fast Ethernet Network Driver Support",
